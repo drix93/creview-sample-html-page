@@ -1,0 +1,23 @@
+{
+  "name": "sample_template",
+  "version": "1.0.0",
+  "description": "Just a basic template for review",
+  "author": "ADixon",
+  "devDependencies": {
+    "browser-sync": "^2.24.6",
+    "flexboxgrid": "*",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-order": "^1.1.1",
+    "gulp-css-prefix": "^0.1.0",
+    "gulp-notify": "^3.0.0",
+    "gulp-pleeease": "^2.0.2",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.1",
+    "gulp-if": "^2.0.2",
+    "gulp-util": "^3.0.8"
+  }
+}
